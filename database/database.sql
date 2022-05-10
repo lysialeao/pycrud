@@ -21,4 +21,3 @@ INSERT INTO Pokemon VALUES(
 	25, "pikachu", 4, 112
 );
 
-
